@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "storyboard.BLL", "storyboard\storyboard.BLL\storyboard.BLL.csproj", "{D3DDC21B-9E50-4EB8-B9A2-3ED81694D97D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "storyboard.DAL", "storyboard\storyboard.DAL\storyboard.DAL.csproj", "{3A974268-785F-46C1-B526-9D7FA2828827}"
